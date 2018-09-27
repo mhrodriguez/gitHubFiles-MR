@@ -8,7 +8,20 @@
 //comentarios
 
 
-	
+
+
+
+	 ertetert
+
+
+	 ert
+	 echo "te
+	 te
+	 database_utilities.php5t
+	 56
+
+
+	 ";
 	function count_users(){
 		global $pdo;
 		$users = $pdo->prepare("SELECT COUNT(*) FROM user");
