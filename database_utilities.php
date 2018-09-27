@@ -3,6 +3,12 @@
 	include_once "connection.php";
 
 
+
+
+//comentarios
+
+
+	
 	function count_users(){
 		global $pdo;
 		$users = $pdo->prepare("SELECT COUNT(*) FROM user");
